@@ -1,8 +1,11 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>Error 400</title>
+<title>SaRDeath Blog - Free Download Music J-Pop, K-Pop, OST Anime Zip Rar Mp3 320 Kbps New</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="theme-color" content="#000000">
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 </head>
 <body bgcolor="#000000" text="#FFFFFF" link="#99CC33" vlink="#99CCCC" alink="#CCCCCC" style="margin: 0px 0px;">
 <div align="center">
@@ -12,8 +15,8 @@
         <tbody>
           <tr>
             <td width="155"><img src="/d3_logo.png" width="84" height="75" alt=""/></td>
-            <td width="439"><strong><font color="#999999" size="4" face="Verdana">ERROR CODE - 400 <br>
-              (Bad Request)</font></strong></td>
+            <td width="439"><strong><font color="#999999" size="4" face="Verdana">MAINTENANCE <br>
+              Upcoming Project :p</font></strong></td>
           </tr>
           <tr>
             <td colspan="2" align="center">&nbsp;</td>
