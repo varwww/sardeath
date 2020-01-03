@@ -34,6 +34,12 @@
             </font></td>
           </tr>
           <tr>
+            <td><font color="#797979" size="2" face="Verdana"><strong>Your Referrer:</strong></font></td>
+            <td><font face="Verdana" size="2" color="BFBFBF">
+              <?php echo $_SERVER['HTTP_REFERER']; ?>
+            </font></td>
+          </tr>
+          <tr>
             <td><font color="#797979" size="2" face="Verdana"><strong>Status:</strong> </font></font></td>
             <td><font face="Verdana" size="2" color="BFBFBF">
               <?php echo $_SERVER['REDIRECT_STATUS']; ?>
