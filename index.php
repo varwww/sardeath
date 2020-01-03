@@ -34,19 +34,13 @@
             </font></td>
           </tr>
           <tr>
-            <td><font color="#797979" size="2" face="Verdana"><strong>Your Referrer:</strong></font></td>
-            <td><font face="Verdana" size="2" color="BFBFBF">
-              <?php echo $_SERVER['HTTP_REFERER']; ?>
-            </font></td>
-          </tr>
-          <tr>
-            <td><font color="#797979" size="2" face="Verdana"><strong>Redirect Status:</strong> </font></font></td>
+            <td><font color="#797979" size="2" face="Verdana"><strong>Status:</strong> </font></font></td>
             <td><font face="Verdana" size="2" color="BFBFBF">
               <?php echo $_SERVER['REDIRECT_STATUS']; ?>
             </font></td>
           </tr>
           <tr>
-            <td colspan="2" align="right"><font color="#474747" size="1" face="Verdana">Updated by ./Shinoa</font></td>
+            <td colspan="2" align="right"><font color="#474747" size="1" face="Verdana">Posted by ./Shinoa</font></td>
           </tr>
         </tbody>
       </table></td>
