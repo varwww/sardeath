@@ -15,8 +15,8 @@
         <tbody>
           <tr>
             <td width="155"><img src="/d3_logo.png" width="84" height="75" alt=""/></td>
-            <td width="439"><strong><font color="#999999" size="4" face="Verdana">MAINTENANCE <br>
-              Upcoming Project :p</font></strong></td>
+            <td width="439"><strong><font color="#999999" size="4" face="Verdana">UPCOMING PROJECT <br>
+              Please Wait.... :p</font></strong></td>
           </tr>
           <tr>
             <td colspan="2" align="center">&nbsp;</td>
@@ -46,7 +46,7 @@
             </font></td>
           </tr>
           <tr>
-            <td colspan="2" align="right"><font color="#474747" size="1" face="Verdana">Powered by st4zz</font></td>
+            <td colspan="2" align="right"><font color="#474747" size="1" face="Verdana">Updated by ./Shinoa</font></td>
           </tr>
         </tbody>
       </table></td>
