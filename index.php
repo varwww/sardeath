@@ -14,7 +14,7 @@
       <td bgcolor="#000"><table width="640" border="0" align="center" cellpadding="10">
         <tbody>
           <tr>
-            <td width="155"><img src="/d3_logo.png" width="84" height="75" alt=""/></td>
+            <td width="155"><img src="/cube.png" width="84" height="75" alt=""/></td>
             <td width="439"><strong><font color="#999999" size="4" face="Verdana">UPCOMING PROJECT <br>
               Please Wait.... :p</font></strong></td>
           </tr>
